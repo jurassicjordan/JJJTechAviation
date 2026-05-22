@@ -1,0 +1,137 @@
+Aeronautics Camera Sync
+Alex's Caves
+All The Leaks
+Alternate Current
+Amendments
+Architectury
+Bacterium
+Bad Packets
+BadOptimizations
+Balm
+Bookshelf
+BotanyPots
+CC Redstone Link Bridge
+CC: Sable
+CC: Tweaked
+CC:C Bridge
+Camera Mod
+Carry On
+Carry On + Create Aeronautics Compat
+Chloride
+Citadel
+Controlling
+Copper Age Backport
+aero_copycats
+Create
+Create Aeronautics
+AeronauticsCompat
+Create Aeronautics: Portable Engine Liquid Fuel
+Create Aeronautics: Toolgun
+Create Big Cannons
+Create Crafts & Additions
+Create Deco
+Create Dynamic Light
+Create Propulsion: Simulated
+Create Sifter
+Create Tracks
+Create: Waystones Recipes
+Create: Aeroworks
+Create: Bells & Whistles
+Create: Compounds
+Create: Connected
+Create: Copycats+
+Crafts-Aero-Bridge
+Create Diesel Generators
+Create: Dragons Plus
+Create: Dreams n' Desires
+Create: Enchantment Industry
+Create: Garnished
+Create: Gravity Gun
+Create: Interiors
+create: things and misc
+Create: New Age
+Create: Power Loader
+Create: Sound of Steam
+Create: Structures Arise
+Custom NPCs
+Customizable Player Models
+Design n' Decor
+Easier Sleeping
+Effortless Building
+Essential_neoforge_1-21-1
+Ex Deorum
+Explorer's Compass
+Forgified Fabric API
+Framework
+Fzzy Config
+GPUTape
+Immersive Paintings
+Iris Flywheel Compat
+Iris
+Just Enough Archaeology
+Just Enough Items
+Just Enough Mekanism Multiblocks
+Kotlin for Forge
+Map Atlases
+Measurements
+Mechanicals Lib
+Mekanism
+Mekanism: Additions
+Mekanism: Generators
+Mekanism: Tools
+Moonlight Lib
+More Mekanism Processing
+Nosiphus Furniture Mod
+MrCrayfish's Furniture Mod Tools: Refurbished
+MrCrayfish's Furniture Mod: Refurbished
+Nature's Compass
+No Chat Reports
+No Telemetry
+ObsidianUI
+Platform
+Polymorph
+PrickleMC
+Quark
+Quark Oddities
+Railways Untold
+Reese's Sodium Options
+Reliquary Reincarnations
+Ritchie's Projectile Library
+RyoamicLights
+Sable
+Sable: Physics Compat
+Sableschem
+Seamless
+Searchables
+Sodium
+Sodium Dynamic Lights
+Sodium Options API
+Sophisticated Backpacks
+Sophisticated Core
+Sound Physics Perfected
+Create: Steam 'n' Rails 1.21.1
+Supplementaries
+Supplementaries Squared
+The Aether
+Tiny Gates
+Tiny Redstone
+TinyCreate
+VR Throwing Extensions
+VanillaBackport
+VeinMiner
+VeinMiner
+Vista
+Vista: All The Tapes
+Vista Aeronautics Fix
+ViveCraft Compat
+Vivecraft
+wthit
+WaterMedia
+Waystones
+WaystonesSable
+WorldEdit
+YetAnotherConfigLib
+Zeta
+oωo
+potion of creativity
+potion of creativity

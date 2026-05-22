@@ -1,0 +1,18 @@
+filename = 'bacterium-neoforge-1.21.1-1.0.0.2.jar'
+name = 'Bacterium'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0.2'
+
+[download]
+hash = '8ce08f497409d3a0ecbb9e03b1acf3ca8d72c5d08a26c932e181e244866e17fb917e467887d8b2cf5e91e442d9b2069d60922bf4de759c8770ec2ee7fe0f6e9b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CtYK1BTD/versions/KVf0CeJA/bacterium-neoforge-1.21.1-1.0.0.2.jar'
+
+[update.modrinth]
+mod-id = 'CtYK1BTD'
+version = 'KVf0CeJA'

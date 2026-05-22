@@ -1,0 +1,18 @@
+filename = 'exdeorum-3.10.jar'
+name = 'Ex Deorum'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.10'
+
+[download]
+hash = '6ea6ea8e02036ddec28cbb17856f6447224ca2c60a4d0385199045d65888a81fa2b26d314fbb95d5fbb7deda4848b9acbc9b6871559ff8a1947e8c1a7657304d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WP0FLyzv/versions/45Jjl6Lg/exdeorum-3.10.jar'
+
+[update.modrinth]
+mod-id = 'WP0FLyzv'
+version = '45Jjl6Lg'

@@ -1,0 +1,31 @@
+/locate structure minecraft:geode
+/gamerule keepInventory true
+/gamemode creative
+/kill
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/time set day
+/gamerule doDaylightCycle false
+/weather clear
+/gamerule doWeatherCycle false
+/kill
+/gamerule doFireTick false
+//fill stone
+//set stone
+//set water
+/give jurassicjordan create:schematic
+/kill @e[type=minecraft:chicken]
+/tick
+/tick rate
+/tick rate 2000
+/tick rate 9999
+/tick rate 20

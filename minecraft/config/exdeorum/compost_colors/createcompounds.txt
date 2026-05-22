@@ -1,0 +1,4 @@
+// Compost colors for createcompounds. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chromatic_compound, #914370
+refined_radiance, #ffffff
+shadow_steel, #524b6b

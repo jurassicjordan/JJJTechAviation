@@ -1,0 +1,95 @@
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				chicken = true
+				armadillo = true
+				item = true
+				glow_squid = true
+				bat = true
+				creeper = true
+				zombie = true
+				skeleton = true
+				spider = true
+				cow = true
+				enderman = true
+				zombie_villager = true
+				pig = true
+				squid = true
+				sheep = true
+				horse = true
+				slime = true
+				drowned = true
+				villager = true
+				iron_golem = true
+				cat = true
+				chest_minecart = true
+				witch = true
+				cod = true
+				tropical_fish = true
+				pufferfish = true
+				turtle = true
+				dolphin = true
+				boat = true
+				salmon = true
+				panda = true
+				ocelot = true
+				experience_orb = true
+				axolotl = true
+				arrow = true
+				wolf = true
+				bee = true
+				wandering_trader = true
+				trader_llama = true
+				rabbit = true
+				lightning_bolt = true
+				blaze = true
+				parrot = true
+				furnace_minecart = true
+				egg = true
+				sulfur_cube = true
+				copper_golem = true
+				creaking = true
+				painting = true
+
+			[light_sources.settings.entities.quark]
+				stoneling = true
+				toretoise = true
+				forgotten = true
+
+			[light_sources.settings.entities.mekanismadditions]
+				baby_enderman = true
+				baby_creeper = true
+				baby_skeleton = true
+
+			[light_sources.settings.entities.customnpcs]
+				customnpc = true
+
+			[light_sources.settings.entities.cfm]
+				seat = true
+
+			[light_sources.settings.entities.create]
+				package = true
+				stationary_contraption = true
+
+			[light_sources.settings.entities.simulated]
+				contraption_diagram = true
+
+			[light_sources.settings.entities.aether]
+				aerbunny = true
+
+			[light_sources.settings.entities.camera]
+				image_frame = true
+
+			[light_sources.settings.entities.offroad]
+				borehead_contraption_entity = true
+
+			[light_sources.settings.entities.aeronautics]
+				propeller_bearing_contraption = true
+
+			[light_sources.settings.entities.immersive_paintings]
+				graffiti = true

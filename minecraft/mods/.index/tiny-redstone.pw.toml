@@ -1,0 +1,18 @@
+filename = 'tinyredstone-1.21.1-6.1.3.jar'
+name = 'Tiny Redstone'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-6.1.3'
+
+[download]
+hash = 'a9d7748b15061a611aec2f3cc0915540f16fbbf3d891bdbf69d616745978e93e2ecd1535b918718a852309b894c6dcb7f83a7451d6305031afc9b1aa2e81b24c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ThvCqQMh/versions/ESelEykG/tinyredstone-1.21.1-6.1.3.jar'
+
+[update.modrinth]
+mod-id = 'ThvCqQMh'
+version = 'ESelEykG'

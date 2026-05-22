@@ -1,0 +1,29 @@
+filename = 'createsifter-1.21.1-2.2.1.jar'
+name = 'Create Sifting'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-2.2.1'
+
+[download]
+hash = '7cb5b7045cbb664316e45b3ffc49803e15cf30e887a257383dc70f002b27f642ba243099ce73c41ee00def849a7a75d5f44a31714d6e03e86757efad3a0de7bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r018adCw/versions/hk3kHwCT/createsifter-1.21.1-2.2.1.jar'
+
+[update.modrinth]
+mod-id = 'r018adCw'
+version = 'hk3kHwCT'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ProvjTA7'
+type = 'REQUIRED'

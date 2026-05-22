@@ -1,0 +1,4 @@
+// Compost colors for furniture_mod_tools_refurbished. You may add your own colors, change existing ones, or remove colors that aren't needed.
+break_tool, #877d6b
+multi_tool, #989082
+rotation_tool, #9e9484

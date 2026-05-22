@@ -1,0 +1,21 @@
+filename = 'create_gravity_gun-1.21.1-NeoForge-1.0.1.jar'
+name = 'Create: Gravity Gun'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'create_gravity_gun-1.21.1-NeoForge-1.0.1.jar'
+
+[download]
+hash = '9bcf9333326bd91484ef9f77e7069847c28e50ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7996483
+project-id = 1525722
+
+[[x-prismlauncher-dependencies]]
+addonId = '676721'
+type = 'REQUIRED'

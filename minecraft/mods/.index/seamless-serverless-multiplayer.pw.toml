@@ -1,0 +1,17 @@
+filename = 'seamless-neoforge-1.21.1-1.1.8.jar'
+name = 'Seamless - Serverless Multiplayer'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.1.8'
+
+[download]
+hash = 'e74d31a55e6a81e412a3eb2309cc4d6838b0ff8259c39f5c133c545151a481d3526735c8e2d879ec56133062dbd484aa4c9e6ae5ce9bd5cc430ae133f3b24cfd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lW3Jfhe2/versions/lTT2YUCw/seamless-neoforge-1.21.1-1.1.8.jar'
+
+[update.modrinth]
+mod-id = 'lW3Jfhe2'
+version = 'lTT2YUCw'

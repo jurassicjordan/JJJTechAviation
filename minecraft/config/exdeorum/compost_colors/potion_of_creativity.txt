@@ -1,0 +1,4 @@
+// Compost colors for potion_of_creativity. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amalgum, #a88973
+amalgumite_brick, #545052
+compound_dust, #898c80

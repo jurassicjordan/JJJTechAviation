@@ -1,0 +1,18 @@
+filename = 'createcompounds-1.21.1-NeoForge-1.0.0.jar'
+name = 'Create: Compounds'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'createcompounds-1.21.1-NeoForge-1.0.0.jar'
+
+[download]
+hash = '46bee3d9700efe4ca49f16945dda8e661a051338'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6255314
+project-id = 1029004

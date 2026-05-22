@@ -1,0 +1,21 @@
+filename = 'vte-neoforge-1.21.1-1.4.0.jar'
+name = 'VR Throwing Extensions'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.0-neoforge'
+
+[download]
+hash = '2d25a8b1fbff06a896c735b8417840fabedbb741ddcc7294dce4b1fad3e40c2e1d1b2be4c579c7cc2e44439088eb3ced122ddb6def0dd5bf4132c65ee8ce423a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SDTJzC3Z/versions/PI20Ob5Y/vte-neoforge-1.21.1-1.4.0.jar'
+
+[update.modrinth]
+mod-id = 'SDTJzC3Z'
+version = 'PI20Ob5Y'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'wGoQDPN5'
+type = 'REQUIRED'

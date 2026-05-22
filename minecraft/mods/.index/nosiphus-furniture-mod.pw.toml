@@ -1,0 +1,37 @@
+filename = 'cfm+nfm-2026.04.17-1.21.1.jar'
+name = "MrCrayFish's Furniture Mod (Legacy Continued) + Nosiphus Furniture Mod"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cfm+nfm-2026.04.17-1.21.1.jar'
+
+[download]
+hash = 'e840995b13db0186c2f695830ef6f8430f8eabfe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7940431
+project-id = 593876
+
+[[x-prismlauncher-dependencies]]
+addonId = '549225'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '659048'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '372408'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '897116'
+type = 'OPTIONAL'

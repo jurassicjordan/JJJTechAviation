@@ -1,0 +1,16 @@
+// Compost colors for dndesires. You may add your own colors, change existing ones, or remove colors that aren't needed.
+burner, #a77f6e
+chocolate_milkshake, #f0b9be
+chocolate_milkshake_bucket, #c6968d
+coal_piece, #2f2c30
+diamond_shard, #75fff4
+glowberry_milkshake, #fff8b6
+glowberry_milkshake_bucket, #eabc7c
+gold_whisk, #e6af79
+lapis_lazuli_shard, #2f68dd
+pumpkin_milkshake, #ffd2ac
+pumpkin_milkshake_bucket, #daa27c
+strawberry_milkshake, #ffd0f2
+strawberry_milkshake_bucket, #e1a0af
+vanilla_milkshake, #ffffff
+vanilla_milkshake_bucket, #f7e3cc

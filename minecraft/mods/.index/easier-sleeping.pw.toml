@@ -1,0 +1,18 @@
+filename = 'EasierSleeping-1.21.1-4.0.0.jar'
+name = 'Easier Sleeping'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-4.0.0'
+
+[download]
+hash = '45deec626db13a58d590d6dd42b1ce07892dceb2dc95aa5941305ffdbe5ed3e97b7a45499718822dc7502e6396726864423e0cad22792ed4cb86c62090c91428'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yTTpfxdS/versions/i73UNjjp/EasierSleeping-1.21.1-4.0.0.jar'
+
+[update.modrinth]
+mod-id = 'yTTpfxdS'
+version = 'i73UNjjp'
